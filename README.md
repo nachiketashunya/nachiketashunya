@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nachiketa Purohit</h1>
 <h3 align="center">Learning from Machines</h3>
 
-- 🌱 I’m currently learning **Deep Learning,Computer Vision & NLP**
+- 🌱 I’m currently working on **Table Detection with Active Learning**
 
 - 📫 How to reach me **nachiketapuro@gmail.com**
 
