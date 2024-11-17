@@ -15,6 +15,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Run Jupyter Notebooks on Your HPC Server Easily](https://medium.com/@nachiketapuro/run-jupyter-notebooks-on-your-hpc-server-easily-12d72c5d9a7e?source=rss-5ecc8c3dc90f------2)
+- [Setup Conda Env in HPC Server](https://medium.com/@nachiketapuro/setup-conda-env-in-hpc-server-e39c8ecbddfa?source=rss-5ecc8c3dc90f------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
