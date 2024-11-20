@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nachiketa</h1>
-<h3 align="center">I’m a Machine Learning Engineer with a passion for solving real-world problems through AI.</h3>
+<h1 align="center">Hi, I'm Nachiketa</h1>
+<h3 align="center">A Machine Learning Engineer with a passion for solving real-world problems through AI.</h3>
 
 - 🔭 I’m currently working on **Active Learning for Table Detection**
 
