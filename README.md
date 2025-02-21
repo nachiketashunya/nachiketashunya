@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nachiketapuro@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/19Qz3ECJegzT1kx6grrrUMDFgsg5BYIA2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XTiyV4eVBuz-zVLjmFp2tmi0IkcZZizC/view?usp=sharing)
 
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
