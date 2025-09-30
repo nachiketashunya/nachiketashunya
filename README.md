@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nachiketapuro@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XTiyV4eVBuz-zVLjmFp2tmi0IkcZZizC/view?usp=sharing)
-
 ### Latest Blogs
 <!-- BLOG-POST-LIST:START -->
 - [Run Jupyter Notebooks on Your HPC Server Easily](https://medium.com/@nachiketapuro/run-jupyter-notebooks-on-your-hpc-server-easily-12d72c5d9a7e?source=rss-5ecc8c3dc90f------2)
