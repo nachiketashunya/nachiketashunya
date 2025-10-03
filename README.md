@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Nachiketa</h1>
-<h3 align="center">you never know</h3>
 
 - 🔭 I’m currently working on **Video Embeddings for Recommendation Systems**
 
