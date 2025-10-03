@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Nachiketa</h1>
 <h3 align="center">A Machine Learning Engineer with a passion for solving real-world problems through AI.</h3>
 
-- 🔭 I’m currently working on **Active Learning for Table Detection**
-
-- 🌱 I’m currently learning **MMDetection**
+- 🔭 I’m currently working on **Video Embeddings for Recommendation Systems**
 
 - 👯 I’m looking to collaborate on **Machine Learning/Data Science Projects**
 
